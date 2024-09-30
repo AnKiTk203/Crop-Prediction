@@ -36,5 +36,5 @@ $ python app.py
 [![ApnaAnaaj](https://github.com/rapterx/Crop-Prediction/blob/main/Crop_Prediction/static/Screenshot%20(27).png)](https://github.com/rapterx/Crop-Prediction)
 
 ## Video Demonstration
-[ApnaAnaaj](https://youtu.be/UahZf4VaCTE)
+[ApnaAnaaj](https://youtu.be/C62mwcLLafw?si=lO1rTFwRdpEz39SZ)
 
